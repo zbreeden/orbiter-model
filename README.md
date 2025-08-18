@@ -49,10 +49,4 @@ Orbiter interfaces with:
 
 ---
 
-Let me know if you want to:
-- Expand any section (e.g., lifecycle logic, integration protocols)
-- Add symbolic tags or meta reflections
-- Draft README variants for Anchor or Catalyst
 
-We can tag this pivot as `orbiter-readme-refine` and keep building.# orbiter-model
-Modular decision model for strategic detachment, pattern recognition, and alignment drift monitoring. Part of a triple-system suite (Orbiter, Anchor, Catalyst) simulating orbital behavior, external signal tracking, and recalibration logic.
