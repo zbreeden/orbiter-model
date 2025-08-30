@@ -1,52 +1,18 @@
-# Orbiter Model
+# FourTwenty • The Orbiter
 
-**Modular Decision Model for Strategic Detachment and Alignment Drift Monitoring**
+>>Auxiliary insights — adjacent analyses that enrich core flows and context
 
-Orbiter is part of a triple-system suite (Orbiter, Anchor, Catalyst) designed to simulate orbital behavior, external signal tracking, and recalibration logic. It supports strategic detachment, pattern recognition, and drift analysis across dynamic environments.
+## What’s inside
+- Purpose: <1–2 lines on the problem it solves>
+- Artifacts: `/playground` (if applicable), `/powerbi`, `/artifacts` (screens/GIFs), `/gtm` (exports), `/ga4`
+- Telemetry: GA4 via GTM (no PII). See Tag Assistant & DebugView screenshots in `/artifacts`.
 
----
+## Quick start
+- Open `/playground/ux_playground.html` locally (`python3 -m http.server 5500`) to trigger events.
+- Attach GTM Preview and verify in GA4 DebugView.
 
-## 🧠 Core Functions
-- **Alignment Drift Monitoring**: Detects deviation from strategic baselines.
-- **Signal Tracking**: Captures and interprets external inputs for recalibration.
-- **Orbital Simulation**: Models cyclical engagement and detachment patterns.
+## Highlights
+- Event taxonomy: `<event_1>`, `<event_2>` with params `<param_a>`, `<param_b>`
+- BI views: <2–3 bullets on visuals/insights>
 
----
-
-## 🗂️ Repo Structure
-| Folder      | Purpose                                                  |
-|-------------|----------------------------------------------------------|
-| `data/`     | Raw and processed datasets for signal and drift analysis |
-| `notebooks/`| Exploratory analysis, model prototyping                  |
-| `scripts/`  | Core logic, scoring algorithms, and utility functions    |
-| `models/`   | Saved model artifacts and versioned logic                |
-| `docs/`     | Documentation, lifecycle diagrams, and meta reflections  |
-| `tags/`     | Symbolic markers for thread closure and model evolution  |
-
----
-
-## 🔄 Lifecycle Logic
-Orbiter operates in three phases:
-1. **Drift Detection**
-2. **Signal Capture**
-3. **Recalibration Trigger**
-
-Each phase is modular and can be adapted to different strategic contexts.
-
----
-
-## 🧭 Integration
-Orbiter interfaces with:
-- **Anchor**: For grounding and strategic reattachment
-- **Catalyst**: For initiating transformation or pivot logic
-
----
-
-## 🧪 Status
-- Repo initialized and synced ✅
-- Lifecycle scaffold in progress
-- README refinement underway
-
----
-
-
+License: MIT
