@@ -1,0 +1,115 @@
+[
+  {
+    "id": "20251013T231417Z-new_opp",
+    "ts_utc": "2025-10-13T23:14:17Z",
+    "module": "Orbiter",
+    "repo": "orbiter-model",
+    "title": "New Job Interview",
+    "summary": "AMEND Consulting - BI Analyst - High Interest - Ops Chain Model asked opf The Developer",
+    "rating": "critical",
+    "origin": {
+      "name": "Orbiter",
+      "url": "https://zbreeden.github.io/orbiter-model/",
+      "emoji": "🛰️"
+    },
+    "status": "fired",
+    "links": {
+      "readme": "https://github.com/zbreeden/orbiter-model#readme",
+      "page": "https://zbreeden.github.io/orbiter-model/"
+    },
+    "payload": {
+      "module_key": "orbiter_model",
+      "broadcast_key": "new_opp",
+      "tags": [
+        "job"
+      ]
+    }
+  },
+  {
+    "id": "20250930T212437Z-orbiter_sprouts",
+    "ts_utc": "2025-09-30T21:24:37Z",
+    "module": "Orbiter",
+    "repo": "orbiter-model",
+    "title": "The Orbiter Sprouts",
+    "summary": "The Orbiter creates an opportunity log similar to The Trainer and The Coach.",
+    "rating": "critical",
+    "origin": {
+      "name": "Orbiter",
+      "url": "https://zbreeden.github.io/orbiter-model/",
+      "emoji": "🛰️"
+    },
+    "status": "sprout",
+    "links": {
+      "readme": "https://github.com/zbreeden/orbiter-model#readme",
+      "page": "https://zbreeden.github.io/orbiter-model/"
+    },
+    "payload": {
+      "module_key": "orbiter_model",
+      "broadcast_key": "orbiter_sprouts",
+      "tags": [
+        "logs"
+      ]
+    }
+  },
+  {
+    "id": "20250925T194853Z-check_in",
+    "ts_utc": "2025-09-25T19:48:53Z",
+    "module": "Orbiter",
+    "repo": "orbiter-model",
+    "title": "Check In",
+    "summary": "The Orbiter is ready and waiting!!",
+    "rating": "normal",
+    "origin": {
+      "name": "Orbiter",
+      "url": "https://zbreeden.github.io/orbiter-model/",
+      "emoji": "🛰️"
+    },
+    "status": "seed",
+    "links": {
+      "readme": "https://github.com/zbreeden/orbiter-model#readme",
+      "page": "https://zbreeden.github.io/orbiter-model/"
+    },
+    "payload": {
+      "module_key": "orbiter_model",
+      "broadcast_key": "check_in",
+      "tags": [
+        "check_in"
+      ]
+    }
+  },
+  {
+    "id": "20250923T022631Z-orbiter-model-genesis",
+    "ts_utc": "2025-09-23T02:26:31Z",
+    "date": "2025-09-23",
+    "module": "Orbiter Model",
+    "repo": "orbiter-model",
+    "title": "New constellation star initialized",
+    "summary": "Generated module scaffold with seedset distribution and basic broadcast structure.",
+    "tags": [
+      "genesis",
+      "scaffold",
+      "module",
+      "ancillary-operations"
+    ],
+    "rating": "normal",
+    "origin": {
+      "name": "Orbiter Model",
+      "url": "https://zbreeden.github.io/orbiter-model/",
+      "emoji": "🛰️"
+    },
+    "links": {
+      "readme": "https://github.com/zbreeden/orbiter-model#readme",
+      "page": "https://zbreeden.github.io/orbiter-model/",
+      "data": "https://github.com/zbreeden/orbiter-model/tree/main/signals",
+      "runbook": "https://github.com/zbreeden/orbiter-model/blob/main/RUNBOOK.md"
+    },
+    "payload": {
+      "orbit": "ancillary-operations",
+      "status": "seed",
+      "module_key": "orbiter_model",
+      "notes": "Initial scaffold created by new-module.sh script. Ready for customization and development."
+    },
+    "checksum": "",
+    "version": "1.0.0"
+  }
+]
