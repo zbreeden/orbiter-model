@@ -1,0 +1,26 @@
+{
+  "id": "20251017T210854Z-status_change",
+  "ts_utc": "2025-10-17T21:08:54Z",
+  "module": "Orbiter",
+  "repo": "orbiter-model",
+  "title": "Status Change",
+  "summary": "The Orbiter falls back to a seed status to wait for further development calls from The Barycenter.",
+  "rating": "critical",
+  "origin": {
+    "name": "Orbiter",
+    "url": "https://zbreeden.github.io/orbiter-model/",
+    "emoji": "🛰️"
+  },
+  "status": "seed",
+  "links": {
+    "readme": "https://github.com/zbreeden/orbiter-model#readme",
+    "page": "https://zbreeden.github.io/orbiter-model/"
+  },
+  "payload": {
+    "module_key": "orbiter_model",
+    "broadcast_key": "status_change",
+    "tags": [
+      "change"
+    ]
+  }
+}
